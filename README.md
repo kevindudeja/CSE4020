@@ -10,3 +10,4 @@
 1. Decision Tree - It builds classification or regression models in the form of a tree structure.
     - http://chem-eng.utoronto.ca/~datamining/dmc/decision_tree.htm
     - http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15381-s06/www/DTs.pdf
+    - www.saedsayad.com/decision_tree.htm
