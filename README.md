@@ -1,4 +1,5 @@
-# Machine learning guide for CSE4020 for 6th Semester
+# Machine Learning Notes 
+#### Course Code: CSE4020
 
 #### Online Course - Machine Learning by Andrew Ng on Coursera (Recommended)
   - https://www.coursera.org/learn/machine-learning/
