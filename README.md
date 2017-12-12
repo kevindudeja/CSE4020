@@ -19,7 +19,7 @@
 #### Why attend Conferences?
 Conferences are a great way to connect to data scientists and also get to know what is happening in the field of Data Science.
 
-NOTE: While many conferences can be prohibitively expensive, one can also youtube the conferences or download the papers presented in the conferences for free, before they get published on IEEE sites. 
+#### NOTE: While many conferences can be prohibitively expensive, one can also youtube the conferences or download the papers presented in the conferences for free, before they get published on IEEE sites. 
 
 If you only intend to visit for the career fair you can often get discounted or even free passes to the conference by applying for Student Volunteership programs and other such oppurtunities. 
 
