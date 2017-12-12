@@ -17,7 +17,7 @@
 2. The 4 Deep Learning Breakthroughs You Should Know About - https://towardsdatascience.com/the-5-deep-learning-breakthroughs-you-should-know-about-df27674ccdf2 
 
 #### Why attend Conferences?
-***Conferences are a great way to connect to data scientists and also get to know what is happening in the field of Data Science.*** 
+Conferences are a great way to connect to data scientists and also get to know what is happening in the field of Data Science.
 
 NOTE: While many conferences can be prohibitively expensive, one can also youtube the conferences or download the papers presented in the conferences for free, before they get published on IEEE sites. 
 
