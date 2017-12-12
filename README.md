@@ -11,3 +11,6 @@
 1. Decision Tree - It builds classification or regression models in the form of a tree structure.
     - http://www.saedsayad.com/decision_tree.htm
     - http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15381-s06/www/DTs.pdf
+   
+#### Further Reading
+1. The 4 Deep Learning Breakthroughs You Should Know About - https://towardsdatascience.com/the-5-deep-learning-breakthroughs-you-should-know-about-df27674ccdf2 
