@@ -7,7 +7,7 @@
 2. Probability and Statistics by MIT opencourseware
     - https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PL1DmdxuyZtDS4o1ZabeVqpWvxmvyy7d8P
 
-#### Reference Books 
+#### Books  
 Machine Learning
 1. Introduction to Machine Learning Second Edition by Ethem Alpaydin
     - http://cs.du.edu/~mitchell/mario_books/Introduction_to_Machine_Learning_-_2e_-_Ethem_Alpaydin.pdf
@@ -15,8 +15,11 @@ Machine Learning
     - https://tinyurl.com/yafdclez
     
 Probability
-2. A First Course in Probability by Sheldon Ross
+1. A First Course in Probability by Sheldon Ross
     - http://julio.staff.ipb.ac.id/files/2015/02/Ross_8th_ed_English.pdf
+    
+Statistics
+1. Introduction to Statistical Learning - http://www-bcf.usc.edu/~gareth/ISL/
     
 #### To Study
 1. Linear Algebra - "*Before you do anything else, start boning up on your linear (matrix) algebra. This is the single most important thing you can do to get yourself bootstrapping your ML education.*"
@@ -31,3 +34,4 @@ Probability
 2. The 4 Deep Learning Breakthroughs You Should Know About - https://towardsdatascience.com/the-5-deep-learning-breakthroughs-you-should-know-about-df27674ccdf2 
 3. Getting started with Machine Learning - https://machinelearningmastery.com/best-machine-learning-resources-for-getting-started/ (***Recommended Read***) 
 4. A List of Data Science and Machine Learning Resources - https://conductrics.com/data-science-resources/
+5. Numsense! Data Science for the Layman: No Math Added - Available for free on the Kindle or buy for Rs1700/-
