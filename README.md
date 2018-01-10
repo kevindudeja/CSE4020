@@ -1,6 +1,16 @@
 # Machine Learning Notes 
 #### Course Code: CSE4020
 
+#### Class Topics
+1. Decision Tree - It builds classification or regression models in the form of a tree structure.
+    - http://www.saedsayad.com/decision_tree.htm
+    - http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15381-s06/www/DTs.pdf
+2. Single and Multi Linear Regression
+3. Perceptrons and neural networks
+    - What are bias nodes and why do we need them? - https://stats.stackexchange.com/questions/185911/why-are-bias-nodes-used-in-neural-networks
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 #### Online Courses 
 1. Machine Learning by Andrew Ng on Coursera (***Recommended***) 
     - https://www.coursera.org/learn/machine-learning/
@@ -23,11 +33,6 @@ Statistics
     
 #### To Study
 1. Linear Algebra - "*Before you do anything else, start boning up on your linear (matrix) algebra. This is the single most important thing you can do to get yourself bootstrapping your ML education.*"
-
-#### Class Topics
-1. Decision Tree - It builds classification or regression models in the form of a tree structure.
-    - http://www.saedsayad.com/decision_tree.htm
-    - http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15381-s06/www/DTs.pdf
    
 #### Further Reading
 1. How to become a Data Scientist - https://medium.freecodecamp.org/how-to-become-a-data-scientist-2d829fa33aba (***Recommended Read***) 
