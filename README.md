@@ -7,6 +7,8 @@
     - http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15381-s06/www/DTs.pdf
 2. Single and Multi Linear Regression
 3. Perceptrons and neural networks
+    - Artificial Neural Network - http://www.saedsayad.com/artificial_neural_network.htm
+    - What is a neural network? - https://www.youtube.com/watch?v=P2HPcj8lRJE
     - What are bias nodes and why do we need them? - https://stats.stackexchange.com/questions/185911/why-are-bias-nodes-used-in-neural-networks
 
 ----------------------------------------------------------------------------------------------------------------------------------------
