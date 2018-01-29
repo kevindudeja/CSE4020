@@ -35,7 +35,12 @@ Statistics
     
 #### To Study
 1. Linear Algebra - "*Before you do anything else, start boning up on your linear (matrix) algebra. This is the single most important thing you can do to get yourself bootstrapping your ML education.*"
-   
+
+#### Blogs I Follow
+1. Machine Learning for Artists - https://ml4a.github.io/ml4a/
+2. Analytics Vidhya
+3. Machinelearningmastery.com
+
 #### Further Reading
 1. How to become a Data Scientist - https://medium.freecodecamp.org/how-to-become-a-data-scientist-2d829fa33aba (***Recommended Read***) 
 2. The 4 Deep Learning Breakthroughs You Should Know About - https://towardsdatascience.com/the-5-deep-learning-breakthroughs-you-should-know-about-df27674ccdf2 
