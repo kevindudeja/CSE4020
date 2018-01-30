@@ -49,4 +49,4 @@ Linear Algebra
 5. Numsense! Data Science for the Layman: No Math Added - Available for free on the Kindle or buy for Rs1700/-
 
 #### Suggestions
-1. Follow one single book, don't be bogged with learning Linear Algebra first, easier to do it on the go
+1. Follow one single (note the double emphasis) book, don't be bogged with learning Linear Algebra first, easier to do it on the go
