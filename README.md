@@ -38,7 +38,7 @@ Statistics
 
 #### Blogs I Follow
 1. Machine Learning for Artists - https://ml4a.github.io/ml4a/
-2. Analytics Vidhya
+2. Analytics Vidhya - https://www.analyticsvidhya.com/resources-machine-learning-deep-learning-neural-networks/
 3. Machinelearningmastery.com
 
 #### Further Reading
