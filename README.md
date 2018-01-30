@@ -1,5 +1,4 @@
 # Machine Learning Notes 
-#### Course Code: CSE4020
 
 #### Class Topics
 1. Decision Tree - It builds classification or regression models in the form of a tree structure.
@@ -25,6 +24,8 @@ Machine Learning
     - http://cs.du.edu/~mitchell/mario_books/Introduction_to_Machine_Learning_-_2e_-_Ethem_Alpaydin.pdf
 2. Programming Collective Intellingence: Building Smart Web 2.0 Applications by O'Reilly ***Recommended*** 
     - https://tinyurl.com/yafdclez
+3. Elements of Statistical Learning by Trevor Hastie et al. (mathematically rigorous)
+    - http://b-ok.org/dl/659984/736e73
     
 Probability
 1. A First Course in Probability by Sheldon Ross
@@ -32,6 +33,10 @@ Probability
     
 Statistics
 1. Introduction to Statistical Learning - http://www-bcf.usc.edu/~gareth/ISL/
+
+Linear Algebra
+1. Linear Algebra by Jim Ho Kwak
+    - Ketan has a djvu file for those in need
     
 #### To Study
 1. Linear Algebra - "*Before you do anything else, start boning up on your linear (matrix) algebra. This is the single most important thing you can do to get yourself bootstrapping your ML education.*"
@@ -42,3 +47,6 @@ Statistics
 3. Getting started with Machine Learning - https://machinelearningmastery.com/best-machine-learning-resources-for-getting-started/ (***Recommended Read***) 
 4. A List of Data Science and Machine Learning Resources - https://conductrics.com/data-science-resources/
 5. Numsense! Data Science for the Layman: No Math Added - Available for free on the Kindle or buy for Rs1700/-
+
+#### Suggestions
+1. Follow one single book, don't be bogged with learning Linear Algebra first, easier to do it on the go
