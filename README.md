@@ -12,27 +12,12 @@
     - What are bias nodes and why do we need them? - https://stats.stackexchange.com/questions/185911/why-are-bias-nodes-used-in-neural-networks
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+#### My Progress
+1. Machine Learning by Andrew Ng on Coursera - [# # # # # # # # # . . . . . . . . . . .] 45%
+2. Introduction to Machine Learning Second Edition by Ethem Alpaydin - [# . . . . . . . . . . . . . . . . . . .] 1%
+3. Programming Collective Intellingence: Building Smart Web 2.0 Applications by O'Reilly - [. . . . . . . . . . . . . . . . . . . .] 0.2%
+4. Thomas Calculas - Maurice D. Weir - [. . . . . . . . . . . . . . . . . . . .] - 0.25%
 
-#### Online Courses 
-1. Machine Learning by Andrew Ng on Coursera (***Recommended***) 
-    - https://www.coursera.org/learn/machine-learning/
-2. Probability and Statistics by MIT opencourseware
-    - https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PL1DmdxuyZtDS4o1ZabeVqpWvxmvyy7d8P
-
-#### Books  
-Machine Learning
-1. Introduction to Machine Learning Second Edition by Ethem Alpaydin
-    - http://cs.du.edu/~mitchell/mario_books/Introduction_to_Machine_Learning_-_2e_-_Ethem_Alpaydin.pdf
-2. Programming Collective Intellingence: Building Smart Web 2.0 Applications by O'Reilly ***Recommended*** 
-    - https://tinyurl.com/yafdclez
-    
-Probability
-1. A First Course in Probability by Sheldon Ross
-    - http://julio.staff.ipb.ac.id/files/2015/02/Ross_8th_ed_English.pdf
-    
-Statistics
-1. Introduction to Statistical Learning - http://www-bcf.usc.edu/~gareth/ISL/
-    
 #### To Study
 1. Linear Algebra - "*Before you do anything else, start boning up on your linear (matrix) algebra. This is the single most important thing you can do to get yourself bootstrapping your ML education.*"
 
