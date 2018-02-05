@@ -50,3 +50,8 @@ Linear Algebra
 
 #### Suggestions
 1. Follow one single (note the double emphasis) book, don't be bogged with learning Linear Algebra first, easier to do it on the go
+2. I'll soon start one project on Kaggle, anyone with me on this
+
+#### My Progress
+Introduction to Machine Learning - Ethem Alpaydin : 2 out of 19 chapters done (book theory and exercises)
+Linear Algebra - Jim Ho Kwak : 0 out of 6 chapters done (book has 9 chapters, 6 are core of linear algebra)
