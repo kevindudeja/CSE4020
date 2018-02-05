@@ -7,9 +7,9 @@ http://b-ok.org/dl/643536/994183<br>
 http://b-ok.org/dl/551009/272c54<br>
 3. E.T. Jaymes - Probability Theory<br>
 http://www.med.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheory.pdf
-4. Hands-On Machine Learning with Scikit and TensorFlow
+4. Hands-On Machine Learning with Scikit and TensorFlow<br>
 http://b-ok.org/dl/2825206/3287e0
-5. Statsoft Online Book
+5. Statsoft Online Book<br>
 http://www.statsoft.com/Textbook/Elementary-Statistics-Concepts
    
 #### Starter Reading
