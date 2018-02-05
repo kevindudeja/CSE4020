@@ -53,5 +53,5 @@ Linear Algebra
 2. I'll soon start one project on Kaggle, anyone with me on this
 
 #### My Progress
-Introduction to Machine Learning - Ethem Alpaydin : <b>2</b> out of <b>19</b> chapters done 
+Introduction to Machine Learning - Ethem Alpaydin : <b>2</b> out of <b>19</b> chapters done <br>
 Linear Algebra - Jim Ho Kwak : <b>0</b> out of <b>6</b> chapters done (book has 9 chapters, 6 are core of linear algebra)
