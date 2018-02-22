@@ -14,7 +14,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 #### My Progress
 1. Machine Learning by Andrew Ng on Coursera - [# # # # # # # # # # # # # # # . . . . .] 72.7%
-2. Python for Data Science and Machine Learning Bootcamp - [# # # . . . . . . . . . . . . . . . . . ] 14.8%
+2. Python for Data Science and Machine Learning Bootcamp - [# # # . . . . . . . . . . . . . . . . . ] 18.5%
 2. Introduction to Machine Learning Second Edition by Ethem Alpaydin - [# . . . . . . . . . . . . . . . . . . .] 1%
 3. Programming Collective Intellingence: Building Smart Web 2.0 Applications by O'Reilly - [. . . . . . . . . . . . . . . . . . . .] 0.2%
 4. Thomas Calculas - Maurice D. Weir - [. . . . . . . . . . . . . . . . . . . .] - 0.25%
